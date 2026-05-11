@@ -40,10 +40,10 @@ const projects: Project[] = [
   },
   {
     id: 4,
-    title: 'Social Media App',
+    title: 'HornSolution',
     description: 'Social networking platform with user authentication, real-time messaging, and feed optimization.',
     tags: ['React Native', 'Firebase', 'Redux', 'Socket.io'],
-    liveUrl: '#',
+    liveUrl: 'https://www.hornsolution.com/',
     githubUrl: '#',
   },
 ];

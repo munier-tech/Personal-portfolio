@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: 'Full Stack Developer Portfolio',
   description: 'Welcome to my developer portfolio showcasing my projects and skills',
   viewport: 'width=device-width, initial-scale=1.0',
+   icons: {
+    icon: '/images.png',
+  },
 };
 
 export default function RootLayout({
